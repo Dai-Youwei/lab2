@@ -1,5 +1,8 @@
-# Lab2 
-##Sanford.Multimedia.Midi
+# Lab2
+
+学院：软件学院  班级：4班  学号：3017218151  姓名：代有为
+日期：2019年4月
+Sanford.Multimedia.Midi
 
 Windows Form实现MIDI音乐文件的播放APP.
 
@@ -8,7 +11,8 @@ Windows Form实现MIDI音乐文件的播放APP.
 工作时间：半天。
 实验过程：Form1 Relize事件:Form_Resize
          Form1_Resize函数，控制控件大小随窗体改变
-         public Form1()
+        
+        public Form1()
         {
             InitializeComponent();
             this.TransparencyKey = Color.Red;
@@ -42,7 +46,7 @@ Windows Form实现MIDI音乐文件的播放APP.
             }
             
         }
- 实验结果：
+实验结果：
      修改前：
      ![修改前](https://github.com/Dai-Youwei/lab2/blob/master/midi1.PNG )
      修改后：
